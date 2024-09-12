@@ -8,8 +8,6 @@ I created this to archive the projects I’ve worked on or learned from. While i
  
 ---
 
-**Explore these repositories to find projects**
-
 Here, you'll find projects spanning **Data Science**, **Finance**, **Business** and **Analysis** to **Development**, and **Design**—with many more to come—from basic to advanced levels.
 
 [**AI & Machine Learning Projects**](https://github.com/tariqve/ai-and-machine-learning-projects)
